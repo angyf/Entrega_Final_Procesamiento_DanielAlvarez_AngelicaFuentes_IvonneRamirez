@@ -4,7 +4,7 @@
 
 [Link de la presentación](https://www.canva.com/design/DAEYIZBWbiE/ra7kZj1_aXeNLah0G-Xtnw/view?utm_content=DAEYIZBWbiE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-[Vídeo de la presentación]()
+[Vídeo]()
 
 Se hizo uso de otra API para realizar automatización de consultas y limpieza (Postwork 6)
 
