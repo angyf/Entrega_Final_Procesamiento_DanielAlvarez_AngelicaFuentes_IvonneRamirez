@@ -4,7 +4,6 @@ La carga de los notebook puede demorar directo en Github, sin embargo se agregan
 
 [Jupyter Notebook](https://github.com/angyf/Entrega_Final_Procesamiento_DanielAlvarez_AngelicaFuentes_IvonneRamirez/blob/main/JupyterNotebook.ipynb)
 
-[Link directo del Notebook en colaboratory](https://colab.research.google.com/drive/1cKaA_JKetdlbFVCnaS7ALdN4d5m9qxqu?usp=sharing)
 
 [Presentación](https://www.canva.com/design/DAEYIZBWbiE/ra7kZj1_aXeNLah0G-Xtnw/view?utm_content=DAEYIZBWbiE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
@@ -14,8 +13,12 @@ Se hizo uso de otra API para realizar automatización de consultas y limpieza (P
 
 [Automatización de API](https://github.com/angyf/Entrega_Final_Procesamiento_DanielAlvarez_AngelicaFuentes_IvonneRamirez/blob/main/API.ipynb)
 
-[Link directo de API en colaboratory](https://colab.research.google.com/drive/1E3INugFT7nQETRmMihGDFhGo4F-7UFT6?usp=sharing)
-
 ## Archivo de datos
 
 [Base de datos](https://raw.githubusercontent.com/angyf/Entrega_Final_Procesamiento_DanielAlvarez_AngelicaFuentes_IvonneRamirez/main/mlbootcamp5_train.csv)
+
+## Links directos a Colaboratory
+
+[Link directo del Notebook en colaboratory](https://colab.research.google.com/drive/1cKaA_JKetdlbFVCnaS7ALdN4d5m9qxqu?usp=sharing)
+
+[Link directo de API en colaboratory](https://colab.research.google.com/drive/1E3INugFT7nQETRmMihGDFhGo4F-7UFT6?usp=sharing)
