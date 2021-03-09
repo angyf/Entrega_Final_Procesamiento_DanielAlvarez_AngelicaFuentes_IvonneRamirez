@@ -1,6 +1,6 @@
 # Proyecto equipo 10
 
-[Jupyter Notebook](https://github.com/angyf/Entrega_Final_Procesamiento_DanielAlvarez_AngelicaFuentes_IvonneRamirez/blob/main/API.ipynb)
+[Jupyter Notebook](https://github.com/angyf/Entrega_Final_Procesamiento_DanielAlvarez_AngelicaFuentes_IvonneRamirez/blob/main/JupyterNotebook.ipynb)
 
 [Presentación](https://www.canva.com/design/DAEYIZBWbiE/ra7kZj1_aXeNLah0G-Xtnw/view?utm_content=DAEYIZBWbiE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
