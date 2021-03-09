@@ -10,6 +10,6 @@ Se hizo uso de otra API para realizar automatización de consultas y limpieza (P
 
 [Automatización de API](https://github.com/angyf/Entrega_Final_Procesamiento_DanielAlvarez_AngelicaFuentes_IvonneRamirez/blob/main/API.ipynb)
 
-## Archivo de datos
+## Archivo de datos.
 
 [Base de datos](https://raw.githubusercontent.com/angyf/Entrega_Final_Procesamiento_DanielAlvarez_AngelicaFuentes_IvonneRamirez/main/mlbootcamp5_train.csv)
