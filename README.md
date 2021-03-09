@@ -4,7 +4,7 @@
 
 [Presentación](https://www.canva.com/design/DAEYIZBWbiE/ra7kZj1_aXeNLah0G-Xtnw/view?utm_content=DAEYIZBWbiE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-[Vídeo]()
+[Vídeo](https://www.dropbox.com/sh/sol6sj33jszp9wr/AAA4GUvsbfICH-aPar3U7LA4a?dl=0&preview=zoom_5.mp4)
 
 Se hizo uso de otra API para realizar automatización de consultas y limpieza (Postwork 6)
 
