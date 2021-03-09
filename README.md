@@ -1,8 +1,10 @@
 # Proyecto equipo 10
 
-#La carga de los notebook puede demorar directo en Github, sin embargo se agregan los accesos directo a Colaboratoriy
+La carga de los notebook puede demorar directo en Github, sin embargo se agregan los accesos directo a Colaboratoriy
+
 [Jupyter Notebook](https://github.com/angyf/Entrega_Final_Procesamiento_DanielAlvarez_AngelicaFuentes_IvonneRamirez/blob/main/JupyterNotebook.ipynb)
 
+[Link directo del Notebook en colaboratory]()
 
 [Presentación](https://www.canva.com/design/DAEYIZBWbiE/ra7kZj1_aXeNLah0G-Xtnw/view?utm_content=DAEYIZBWbiE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
